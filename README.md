@@ -59,4 +59,4 @@ vertical-split-postcard/
 
 ## License
 
-本仓库未指定开源许可证。
+本项目仅供个人学习与使用，禁止商用。请勿将技能、提示词或生成结果用于商业用途。 (For personal study and non-commercial use only. Commercial use is prohibited.)
